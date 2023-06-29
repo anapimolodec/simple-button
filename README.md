@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 # NOTE
-This is repository for the tutorial [Connecting Tailwind CSS, NextJs, and Storybook](). 
+This is repository for the tutorial [Connecting Tailwind CSS, NextJs, and Storybook](https://dev.to/anapimolodec/connecting-tailwind-css-nextjs-and-storybook-2fe9). 
 
 ## Getting Started
 
